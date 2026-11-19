@@ -1,1 +1,1 @@
-# project1-sequence-analysis
+NGS Mismatch Analysis in Fission Yeast
